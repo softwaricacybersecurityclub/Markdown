@@ -1,4 +1,4 @@
-> `view this website in [webiste](https://softwaricacybersecurityclub.github.io/Markdown/)`
+> `view this website in \[webiste](https://softwaricacybersecurityclub.github.io/Markdown/)`
 
 # What is markdown?
 Light weight markup language
