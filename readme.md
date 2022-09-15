@@ -108,18 +108,22 @@ To use code block we use (\`\`\` ) triple backtick and end it with same and for 
 print("Hello learner")
 \`\`\`
 
+### Table
+| name  | Email     |
+| ----- | --------- |
+| anish | aa@AA.com |
+| ab    | a@a.com   |
 
+To make a table in markdown we use pipe (|) and input and pipe and so on.
+here is how you can do.
+\| name  \| Email     \|
+\| ----- \| --------- \|
+\| anish \| aa@AA.com \|
+\| ab    \| a@a.com   \|
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Task List
+* [x] task 1
+* [ ] task 2
+to make a task list of done we use hastrick and big bracket and inside x if its done else empty.
+\* [x] task 1
+\* [ ] task 2

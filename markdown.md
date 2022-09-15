@@ -5,12 +5,12 @@ readability and easy of use
 
 ## use for
 Readme files in github
-forum & blog post 
+forum & blog post
 Static Site Generators
 
 `We can name the markdowm file readme.md to add it as read me in Github`
 
-## Things you can do 
+## Things you can do
 - Heading
 - Lists
 - Emphasis
@@ -61,13 +61,13 @@ To use blockquote we ues (>) greaterthen sign.
 ### Link
 [this is a link to my website](http://www.Anishbhattarai.com.np)
 
-To use link we should give big bracket (\[) your data and close it (]) after that we use small bracket (your link) as 
+To use link we should give big bracket (\[) your data and close it (]) after that we use small bracket (your link) as
 
 [your words](your link)
 
 ### Ul
 
-we use asterik for unorder list 
+we use asterik for unorder list
 * item 1
 * item 2
 * item 3
@@ -98,7 +98,7 @@ like this ==>
 \![Markdown logo]\(https://markdown-here.com/img/icon256.png)
 
 
-### Code Block 
+### Code Block
 ```python
 print("Hello learner")
 ```
@@ -127,19 +127,3 @@ here is how you can do.
 to make a task list of done we use hastrick and big bracket and inside x if its done else empty.
 \* [x] task 1
 \* [ ] task 2
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
